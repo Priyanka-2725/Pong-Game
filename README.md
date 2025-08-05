@@ -34,10 +34,3 @@ This game was built as part of my learning journey in **Object-Oriented Programm
 
 
 
-## 📁 Project Structure
-
-```bash
-Pong-Game/
-│
-├── PongGame.java        # Main game logic and rendering
-└── README.md            # Project documentation
